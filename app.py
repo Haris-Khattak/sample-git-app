@@ -23,3 +23,5 @@ st.sidebar.markdown("""
 - home
 - About
                     """)
+
+st.sidebar.selectbox('select one')
