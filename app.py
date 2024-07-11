@@ -19,3 +19,7 @@ st.subheader('Sql')
 st.subheader('DSA')
 
 st.titlebar.title('Menu')
+st.sidebar.markdown("""
+- home
+- About
+                    """)
