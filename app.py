@@ -17,3 +17,5 @@ st.subheader('ML')
 st.subheader('Python')
 st.subheader('Sql')
 st.subheader('DSA')
+
+st.titlebar.title('Menu')
